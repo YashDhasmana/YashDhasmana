@@ -8,6 +8,6 @@ A 2nd Year CSE Student learning and exploring many technologies and tech stacks.
 
 ## Connect with me 
 
-- [Twitter](twitter.com/YashDhasmana)
+- [Twitter](https://twitter.com/YashDhasmana)
 - [LinkedIn](https://www.linkedin.com/in/yash-dhasmana-1a7b43217/)
 - [Instagram](https://www.instagram.com/_yashdhasmana_/)
