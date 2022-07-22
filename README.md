@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Yash 👋
 
-<!--
-**YashDhasmana/YashDhasmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 2nd Year CSE Student learning and exploring many technologies and tech stacks.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some projects in Python and DevOps
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me 
+
+- [Twitter](twitter.com/YashDhasmana)
+- [LinkedIn](https://www.linkedin.com/in/yash-dhasmana-1a7b43217/)
+- [Instagram](https://www.instagram.com/_yashdhasmana_/)
